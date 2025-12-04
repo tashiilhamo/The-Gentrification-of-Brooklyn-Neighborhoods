@@ -40,8 +40,3 @@ Objectives
 	•	Litzy – StoryMap organization, visuals, editing
   Tashi Lhamo – GitHub documentation
 
-  Repository Structure
-  /images      → screenshots of maps or charts  
-/data        → datasets used (optional)
-/docs        → notes, drafts, or citations  
-README.md    → project overview (this file)
