@@ -39,5 +39,6 @@ Objectives
 	•	Devon – Research, neighborhood background, writing
 	•	Litzy – StoryMap organization, visuals, editing
   Tashi Lhamo – GitHub documentation
-https://storymaps.arcgis.com/stories/05129dc9140a4c46ad33cb6c87c4731b/preview
+Storymap: https://storymaps.arcgis.com/stories/05129dc9140a4c46ad33cb6c87c4731b/preview
 
+Project Scope: https://docs.google.com/document/d/1iSt1ug8YEZNN8Krd1sT155_Es364adTuvOb8aMgIyXY/edit?usp=drivesdk
