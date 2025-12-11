@@ -38,7 +38,7 @@ Objectives
 	•	Skyla – ArcGIS mapping, spatial visualization
 	•	Devon – Research, neighborhood background, writing
 	•	Litzy – StoryMap organization, visuals, editing
-  Tashi Lhamo – GitHub documentation
+    •   Tashi Lhamo – GitHub documentation
   
 Storymap: https://storymaps.arcgis.com/stories/05129dc9140a4c46ad33cb6c87c4731b/preview
 
