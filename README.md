@@ -43,3 +43,5 @@ Objectives
 Storymap: https://storymaps.arcgis.com/stories/05129dc9140a4c46ad33cb6c87c4731b/preview
 
 Project Scope: https://docs.google.com/document/d/1iSt1ug8YEZNN8Krd1sT155_Es364adTuvOb8aMgIyXY/edit?usp=drivesdk
+
+Presentation: https://www.canva.com/design/DAG6JepEH5k/JROG1sKBH8NMpLYYNkZvIA/edit?utm_content=DAG6JepEH5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
